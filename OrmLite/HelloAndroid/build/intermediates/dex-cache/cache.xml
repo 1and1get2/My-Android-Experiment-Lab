@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/derek/Workspace/android/Experiment/OrmLite/HelloAndroid/app/libs/ormlite-android-4.43.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8fcbe57e9d2f9bc1a7170fe0805161185df36a4a">
+        <dex dex="/Users/derek/Workspace/android/Experiment/OrmLite/HelloAndroid/app/build/intermediates/pre-dexed/debug/ormlite-android-4.43-e5dbf82db9156160e2d3b5a9551a35dc9b924a0f.jar" />
+    </item>
+    <item
+        jar="/Users/derek/Workspace/android/Experiment/OrmLite/HelloAndroid/app/libs/ormlite-core-4.43.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="b6a73dff02ae2530bb879f5e2bb754da8915696c">
+        <dex dex="/Users/derek/Workspace/android/Experiment/OrmLite/HelloAndroid/app/build/intermediates/pre-dexed/debug/ormlite-core-4.43-3c1b713129313b7d8a865aa25f2b25e5e4d1f5a3.jar" />
+    </item>
+
+</items>

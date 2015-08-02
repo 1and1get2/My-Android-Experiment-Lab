@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ormlite-android-4.43">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ormlite-android-4.43.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/ormlite-android-4.43-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
